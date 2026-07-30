@@ -49,9 +49,13 @@ This project does not include any separate content that was not part of the publ
 
 License information associated with the original project is preserved.
 
-The original distribution contained GPLv2 license information, while the public project page provided MIT license information.
+The original distributed files contained GPLv2 license information
+in their metadata, while the public project page provided MIT license information.
 
-Due to the available license information of the original distribution, this repository is released under:
+Based on the license information available from the original distribution,
+this repository follows the GPL-2.0-only license for the ported project.
+
+The original license notices are preserved for reference.
 
 **GNU General Public License v2.0 (GPL-2.0-only)**
 
@@ -83,6 +87,17 @@ This repository is provided in good faith for transparency, preservation, and co
 Thanks to the original author and contributors of the Shwetro project.
 
 Original project:
-[Original project link]
+[[Original project link]](https://modrinth.com/mod/shwetro)
 
 This project is an unofficial port and is independently maintained.
+
+---
+
+## Additional Content
+
+This repository does not include, depend on, or redistribute any separate
+commercial resource packs or content obtained outside the publicly
+distributed version of the original mod.
+
+Only files contained in the publicly distributed original version and
+modifications made for this port are included.
